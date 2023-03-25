@@ -1,0 +1,29 @@
+Task Management System
+Description
+Task Management System is an application designed to help users manage their tasks. It allows users to register, add tasks, view all tasks, and view their own tasks. Admin users have access to additional features such as registering new users, generating reports, and viewing statistics.
+
+Technologies Used
+The application was built using Python programming language.
+
+Installation
+Clone the repository to your local machine.
+Open the project directory in a terminal window.
+Run the following command to install dependencies:
+Copy code
+pip install -r requirements.txt
+To start the application, run the following command:
+css
+Copy code
+python main.py
+Usage
+Upon launching the application, you will be prompted to log in. Enter your username and password to access the main menu.
+If you are an admin user, you will be able to register new users, generate reports, and view statistics. If you are a regular user, you will only be able to add tasks, view all tasks, and view your own tasks.
+To add a task, select "a" from the main menu and follow the prompts to enter task details.
+To view all tasks, select "va" from the main menu.
+To view your own tasks, select "vm" from the main menu.
+To exit the application, select "e" from the main menu.
+Contributors
+This application was developed by [Your Name].
+
+License
+This project is licensed under the MIT License.

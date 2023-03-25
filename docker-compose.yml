@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  l1t24:
+    image: l1t24
+    build:
+      context: .
+      dockerfile: ./Dockerfile
